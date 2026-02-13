@@ -1,7 +1,7 @@
-# 🚀 365 Days of Code - Game Development Challenge 🎮
+# 🚀 5 Days of Code - Game Development Challenge 🎮
 
 ## **📌 About This Challenge**
-This repository is my **365-day coding challenge**, where I focus on **game development, algorithms, and programming concepts**.  
+This repository is my **5-day coding challenge**, where I focus on **game development, algorithms, and programming concepts**.  
 Each day, I build a **small project or feature**, improving my skills in **C++, C#, Unity, and other game-related technologies**.
 
 ## **📌 Challenge Goals**
